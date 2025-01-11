@@ -1,0 +1,7 @@
+n,merge sort,quick sort, randomized quick sort,insertion sort,quick sort in sorted array, randomized quick sort in sorted array,stl sort
+5,0,0,0,0,0,0,0
+10,0,0,0,0,0,0,0
+100,0,0,0,0,0.05004,0,0
+1000,0.1001,0,0.100085,0.45034,1.65159,0.050045,0.050035
+10000,0.90087,0.800675,1.00096,45.1412,200.565,0.80072,0.90074
+100000,11.0087,9.80854,12.4633,4766.31,20268.6,11.1089,10.7507
